@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(53, 45, 45);
+  margin: 40vmin auto;
+}
+.netflex_logo{
+  position: relative;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(3, 2, 2);
+  width: 40vmin;
+  height: 35vmin;
+  margin: 44vmin auto;
+  border-radius: 4%;
+}
+.N-left-line::before{
+  content: " ";
+  position: absolute;
+  background-color: red;
+  margin:auto;
+  width: 2vmin;
+  height: 19vmin;
+  left: 14vmin;
+  top:8vmin;
+  opacity: 0.9;
+  
+}
+.N-left-line::after{
+  content: " ";
+  position: absolute;
+  background-color: red;
+  width: 2vmin;
+  height: 21vmin;
+  left: 19vmin;
+  top:7vmin;
+  transform: rotate(-28deg);
+  opacity: 0.9;
+  
+}
+.N-right-line{
+  position: absolute;
+  background-color: red;
+  width: 2vmin;
+  height: 19vmin;
+  left: 23.9vmin;
+  top:8.1vmin;
+  opacity: 0.9;
+}
