@@ -1,5 +1,5 @@
 ## Pinterest login page
-### login pinterest page i made with HTML and CSS :D, enjoyed making this one <3
+### login pinterest page i made with HTML and CSS 🌼. Enjoyed making this one <3
 
 
 ### ScreenShot:
